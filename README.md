@@ -1,2 +1,2 @@
 # SCHEDULER-TESTING
-A project made put knowledge about schedulers in practice in a cpp abstraction
+A project made to put knowledge about schedulers in practice in a cpp abstraction
